@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: ;
+}
+
+.col-4{
+    -ms-grid-rows: auto 30px auto;
+        grid-gap: 30px;
+        row-gap: 30px;
+        column-gap: 30px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
